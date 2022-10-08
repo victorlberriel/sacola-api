@@ -89,6 +89,6 @@ No Terminal/Console:
 
 Feito por victorlberriel.
 
-[![Linkedin Badge](https://img.shields.io/badge/-VictorBerriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-berriel-803a9a20b)](www.linkedin.com/in/victor-berriel-803a9a20b)
+[![Linkedin Badge](https://img.shields.io/badge/-VictorBerriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorlberriel)](https://www.linkedin.com/in/victorlberriel)
 [![Gmail Badge](https://img.shields.io/badge/-victorlberriel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorlberriel@gmail.com)](mailto:victorlberriel@gmail.com)
 <hr>
