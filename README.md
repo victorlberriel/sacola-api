@@ -82,7 +82,7 @@ No Terminal/Console:
 
 <h3>Autor</h3>
 
-<a href="www.linkedin.com/in/victor-berriel-803a9a20b">
+<a href="https://www.linkedin.com/in/victorlberriel">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70602423?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Victor Berriel</b></sub></a> <a href="https://www.instagram.com/victorlberriel/" title="Instagram"></a>
